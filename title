@@ -1,106 +1,132 @@
 [
     {
         "id": "",
-        "title": "Hướng dẫn chi tiết cách cài và trải nghiệm các tựa game '4 nút' kinh điển ngay trên PC"
+        "title": "Hướng dẫn chi tiết cách cài và trải nghiệm các tựa game '4 nút' kinh điển ngay trên PC",
+        "des": "Gợi ý cách để bạn có thể tận hưởng các tựa game huyền thoại như Mario, Contra, .v.v ngay trên Windows..."
     },
     {
         "id": "",
-        "title": "Những mẹo đơn giản giúp làm mát máy tính khi sử dụng trong thời gian dài"
+        "title": "Những mẹo đơn giản giúp làm mát máy tính khi sử dụng trong thời gian dài",
+        "des": "Chúng vô cùng đơn giản, hiệu quả và không ảnh hưởng đến máy tính."
     },
     {
         "id": "",
-        "title": "Google Photos không còn lưu ảnh miễn phí - đâu là giải pháp lưu trữ thích hợp?"
+        "title": "Google Photos không còn lưu ảnh miễn phí - đâu là giải pháp lưu trữ thích hợp?",
+        "des": "Đã đến lúc người dùng cần phải làm quen với các dịch vụ lữu trữ trả phí và câu hỏi đặt ra ở đây chính..."
     },
     {
         "id": "",
-        "title": "Hướng dẫn bạn cách tải tất cả ảnh lưu trữ từ Google Photos về máy tính"
+        "title": "Hướng dẫn bạn cách tải tất cả ảnh lưu trữ từ Google Photos về máy tính",
+        "des": "Sau bao biện pháp lưu ảnh trực tuyến thì tốt nhất vẫn cứ tự mình lưu trữ là tốt nhất."
     },
     {
         "id": "",
-        "title": "Sửa lỗi “Permission to access this folder” khi truy cập vào thư mục trong Windows 10"
+        "title": "Sửa lỗi “Permission to access this folder” khi truy cập vào thư mục trong Windows 10",
+        "des": "Cách khắc phục lỗi “You do not currently have permission to access this folder” trong Windows 10."
     },
     {
         "id": "",
-        "title": "Cách tải và tạo bộ cài đặt Windows 10 October 2020 Update 20H2 bằng USB"
+        "title": "Cách tải và tạo bộ cài đặt Windows 10 October 2020 Update 20H2 bằng USB",
+        "des": "Bản cập nhật Windows 10 mới vừa được Microsoft phát hành."
     },
     {
         "id": "",
-        "title": "Khám phá những tùy chỉnh giúp cải thiện chất lượng âm thanh trong Windows 10"
+        "title": "Khám phá những tùy chỉnh giúp cải thiện chất lượng âm thanh trong Windows 10",
+        "des": "Bản thân Windows 10 cũng có sẵn các tùy chỉnh cải thiện chất lượng âm thanh rất thú vị."
     },
     {
         "id": "",
-        "title": "Làm gì khi ổ cứng di động bỗng chậm chạp trong việc truy xuất dữ liệu ở Windows 10?"
+        "title": "Làm gì khi ổ cứng di động bỗng chậm chạp trong việc truy xuất dữ liệu ở Windows 10?",
+        "des": "Cách khắc phục lỗi truy xuất dữ liệu chậm trên ổ cứng ngoài ở Windows 10."
     },
     {
         "id": "",
-        "title": "Có thể khôi phục lại email đã xóa trong Gmail hay không? Câu trả lời đơn giản đến bất ngờ"
+        "title": "Có thể khôi phục lại email đã xóa trong Gmail hay không? Câu trả lời đơn giản đến bất ngờ",
+        "des": "Đây là tất cả các cách để bạn có thể khôi phục email đã xóa khỏi hộp thư đến Gmail của bạn."
     },
     {
         "id": "",
-        "title": "“Độ” Task Manager của Windows 10 thành widget theo dõi trạng thái hệ thống"
+        "title": "“Độ” Task Manager của Windows 10 thành widget theo dõi trạng thái hệ thống",
+        "des": "Cần gì cài thêm phần mềm, Task Manager của Windows 10 là quá đủ để theo dõi trạng thái hệ thống."
     },
     {
         "id": "",
-        "title": "Cách chơi các tựa game PlayStation 3 ngay trên Windows 10"
+        "title": "Cách chơi các tựa game PlayStation 3 ngay trên Windows 10",
+        "des": "Gợi ý cách để bạn có thể tận hưởng các tựa game PlayStation 3 ngay trên Windows 10."
     },
     {
         "id": "",
-        "title": "Cách chụp ảnh phơi sáng cực ảo diệu với iPhone mà không cần phụ kiện và ứng dụng ngoài"
+        "title": "Cách chụp ảnh phơi sáng cực ảo diệu với iPhone mà không cần phụ kiện và ứng dụng ngoài",
+        "des": "Bỏ chiếc tripod cồng kềnh ở nhà, người dùng iPhone có thể chụp phơi sáng bằng tay một cách dễ dàng!"
     },
     {
         "id": "",
-        "title": "Cách xem FPS và thông số phần cứng trong mọi tựa game, dễ đến mức ai cũng có thể làm được"
+        "title": "Cách xem FPS và thông số phần cứng trong mọi tựa game, dễ đến mức ai cũng có thể làm được",
+        "des": "Ngoài chức năng chính là ép xung card đồ họa, MSI Afterburner còn sở hữu tính năng hiển thị FPS và..."
     },
     {
         "id": "",
-        "title": "Tinh chỉnh như thế nào để giúp tối ưu hóa máy tính khi chơi game?"
+        "title": "Tinh chỉnh như thế nào để giúp tối ưu hóa máy tính khi chơi game?",
+        "des": "Những mẹo quan trọng giúp PC chơi game của bạn hoạt động một cách tốt nhất."
     },
     {
         "id": "",
-        "title": "Loạt ứng dụng cực hữu ích sau khi cài Windows 10 khiến bạn ước giá như mình biết sớm hơn"
+        "title": "Loạt ứng dụng cực hữu ích sau khi cài Windows 10 khiến bạn ước giá như mình biết sớm hơn",
+        "des": "Thay vì mất hàng tiếng đồng hồ để tải driver hay các phần mềm cần thiết sau khi cài đặt lại Windows,..."
     },
     {
         "id": "",
-        "title": "Tại sao nên che mờ nhà riêng trên Google Maps? Đây là lý do tại sao và cách thức thực hiện"
+        "title": "Tại sao nên che mờ nhà riêng trên Google Maps? Đây là lý do tại sao và cách thức thực hiện",
+        "des": "Trên mạng Internet nhiều ngõ tối, bạn sẽ không biết kẻ nào đang rình mò mình đâu."
     },
     {
         "id": "",
-        "title": "Bỏ túi ngay 6 bí kíp sử dụng Gmail cực 'thần thánh', riêng bí kíp thứ 2 đặc biệt hữu ích"
+        "title": "Bỏ túi ngay 6 bí kíp sử dụng Gmail cực 'thần thánh', riêng bí kíp thứ 2 đặc biệt hữu ích",
+        "des": "Chúng ta thường phải sử dụng Gmail hằng ngày trong công việc, nhưng liệu bạn đã biết sử dụng hết các..."
     },
     {
         "id": "",
-        "title": "Tưởng rằng mua được sạc dự phòng có một không hai và cái kết vứt ngay sau 10 giây sử dụng"
+        "title": "Tưởng rằng mua được sạc dự phòng có một không hai và cái kết vứt ngay sau 10 giây sử dụng",
+        "des": "\"Sạc dự phòng\" với thiết kế có một không hai, nhưng phải vội vàng \"quăng\" ngay khi chưa sử dụng nổi một..."
     },
     {
         "id": "",
-        "title": "Dùng 2 chiếc Google Home Mini làm \"bà mối\", tôi đã bắt 2 hãng smarthome không ưa nhau phải làm việc với nhau"
+        "title": "Dùng 2 chiếc Google Home Mini làm \"bà mối\", tôi đã bắt 2 hãng smarthome không ưa nhau phải làm việc với nhau",
+        "des": "Sử dụng cảm biến trên nền tảng này để điều khiển thiết bị trên một nền tảng khác tưởng chừng là không..."
     },
     {
         "id": "",
-        "title": "Cặp vợ chồng nghe lời công ty mạng rủ rê, đặt tên con siêu kỳ quặc để được xài internet miễn phí 18 năm"
+        "title": "Cặp vợ chồng nghe lời công ty mạng rủ rê, đặt tên con siêu kỳ quặc để được xài internet miễn phí 18 năm",
+        "des": "Thấy bảo đặt xong cũng hối hận lắm, cơ mà nghe miễn phí Wifi 18 năm nên lại tươi rói..."
     },
     {
         "id": "",
-        "title": "Cách ẩn luôn tên Wi-Fi để khỏi có ai dùng chùa mạng internet của bạn"
+        "title": "Cách ẩn luôn tên Wi-Fi để khỏi có ai dùng chùa mạng internet của bạn",
+        "des": "Xin mật khẩu Wi-Fi mà không cho thì cũng ngại, thôi thì ẩn luôn cho khỏe thân!"
     },
     {
         "id": "",
-        "title": "Bộ sưu tập ảnh nền 4K về chủ đề hoa lá cành dành cho máy tính"
+        "title": "Bộ sưu tập ảnh nền 4K về chủ đề hoa lá cành dành cho máy tính",
+        "des": "Loạt bài về các bộ sưu tập ảnh nền chất lượng cao (4K) dành cho máy tính."
     },
     {
         "id": "",
-        "title": "Dễ dàng biết ngay ứng dụng và thư mục nào bị người lạ lục lọi trên Windows 10"
+        "title": "Dễ dàng biết ngay ứng dụng và thư mục nào bị người lạ lục lọi trên Windows 10",
+        "des": "Bạn muốn biết ứng dụng, thư mục nào bị truy cập “trái phép” trên Windows 10 khi mình đi vắng? đây là..."
     },
     {
         "id": "",
-        "title": "Microchip tung “chiến binh” mới: Mô-đun vi điều khiển đầu tiên cho thiết bị ngoại vi"
+        "title": "Microchip tung “chiến binh” mới: Mô-đun vi điều khiển đầu tiên cho thiết bị ngoại vi",
+        "des": "Không hổ danh là thương hiệu đi đầu về giải pháp điều khiển nhúng thông minh, sáng nay (13/10)..."
     },
     {
         "id": "",
-        "title": "Mẹo làm mát laptop của dân mạng Nhật Bản, thử xong ai cũng tấm tắc khen hay"
+        "title": "Mẹo làm mát laptop của dân mạng Nhật Bản, thử xong ai cũng tấm tắc khen hay",
+        "des": "Bạn có thể giữ cho máy tính xách tay của mình luôn mát mẻ với thủ thuật tiện lợi này."
     },
     {
         "id": "",
-        "title": "Benchmark máy tính là gì? Và cần chú ý gì trước khi thực hiện Benchmark?"
+        "title": "Benchmark máy tính là gì? Và cần chú ý gì trước khi thực hiện Benchmark?",
+        "des": "Dựa vào kết quả benchmark, bạn có thể xác định được phương hướng để nâng cấp cấu hình sao cho phù hợp..."
     }
 ]
