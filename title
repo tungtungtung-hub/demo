@@ -1,80 +1,106 @@
 [
     {
-        "job": "Hướng dẫn chi tiết cách cài và trải nghiệm các tựa game '4 nút' kinh điển ngay trên PC"
+        "id": "",
+        "title": "Hướng dẫn chi tiết cách cài và trải nghiệm các tựa game '4 nút' kinh điển ngay trên PC"
     },
     {
-        "job": "Những mẹo đơn giản giúp làm mát máy tính khi sử dụng trong thời gian dài"
+        "id": "",
+        "title": "Những mẹo đơn giản giúp làm mát máy tính khi sử dụng trong thời gian dài"
     },
     {
-        "job": "Google Photos không còn lưu ảnh miễn phí - đâu là giải pháp lưu trữ thích hợp?"
+        "id": "",
+        "title": "Google Photos không còn lưu ảnh miễn phí - đâu là giải pháp lưu trữ thích hợp?"
     },
     {
-        "job": "Hướng dẫn bạn cách tải tất cả ảnh lưu trữ từ Google Photos về máy tính"
+        "id": "",
+        "title": "Hướng dẫn bạn cách tải tất cả ảnh lưu trữ từ Google Photos về máy tính"
     },
     {
-        "job": "Sửa lỗi “Permission to access this folder” khi truy cập vào thư mục trong Windows 10"
+        "id": "",
+        "title": "Sửa lỗi “Permission to access this folder” khi truy cập vào thư mục trong Windows 10"
     },
     {
-        "job": "Cách tải và tạo bộ cài đặt Windows 10 October 2020 Update 20H2 bằng USB"
+        "id": "",
+        "title": "Cách tải và tạo bộ cài đặt Windows 10 October 2020 Update 20H2 bằng USB"
     },
     {
-        "job": "Khám phá những tùy chỉnh giúp cải thiện chất lượng âm thanh trong Windows 10"
+        "id": "",
+        "title": "Khám phá những tùy chỉnh giúp cải thiện chất lượng âm thanh trong Windows 10"
     },
     {
-        "job": "Làm gì khi ổ cứng di động bỗng chậm chạp trong việc truy xuất dữ liệu ở Windows 10?"
+        "id": "",
+        "title": "Làm gì khi ổ cứng di động bỗng chậm chạp trong việc truy xuất dữ liệu ở Windows 10?"
     },
     {
-        "job": "Có thể khôi phục lại email đã xóa trong Gmail hay không? Câu trả lời đơn giản đến bất ngờ"
+        "id": "",
+        "title": "Có thể khôi phục lại email đã xóa trong Gmail hay không? Câu trả lời đơn giản đến bất ngờ"
     },
     {
-        "job": "“Độ” Task Manager của Windows 10 thành widget theo dõi trạng thái hệ thống"
+        "id": "",
+        "title": "“Độ” Task Manager của Windows 10 thành widget theo dõi trạng thái hệ thống"
     },
     {
-        "job": "Cách chơi các tựa game PlayStation 3 ngay trên Windows 10"
+        "id": "",
+        "title": "Cách chơi các tựa game PlayStation 3 ngay trên Windows 10"
     },
     {
-        "job": "Cách chụp ảnh phơi sáng cực ảo diệu với iPhone mà không cần phụ kiện và ứng dụng ngoài"
+        "id": "",
+        "title": "Cách chụp ảnh phơi sáng cực ảo diệu với iPhone mà không cần phụ kiện và ứng dụng ngoài"
     },
     {
-        "job": "Cách xem FPS và thông số phần cứng trong mọi tựa game, dễ đến mức ai cũng có thể làm được"
+        "id": "",
+        "title": "Cách xem FPS và thông số phần cứng trong mọi tựa game, dễ đến mức ai cũng có thể làm được"
     },
     {
-        "job": "Tinh chỉnh như thế nào để giúp tối ưu hóa máy tính khi chơi game?"
+        "id": "",
+        "title": "Tinh chỉnh như thế nào để giúp tối ưu hóa máy tính khi chơi game?"
     },
     {
-        "job": "Loạt ứng dụng cực hữu ích sau khi cài Windows 10 khiến bạn ước giá như mình biết sớm hơn"
+        "id": "",
+        "title": "Loạt ứng dụng cực hữu ích sau khi cài Windows 10 khiến bạn ước giá như mình biết sớm hơn"
     },
     {
-        "job": "Tại sao nên che mờ nhà riêng trên Google Maps? Đây là lý do tại sao và cách thức thực hiện"
+        "id": "",
+        "title": "Tại sao nên che mờ nhà riêng trên Google Maps? Đây là lý do tại sao và cách thức thực hiện"
     },
     {
-        "job": "Bỏ túi ngay 6 bí kíp sử dụng Gmail cực 'thần thánh', riêng bí kíp thứ 2 đặc biệt hữu ích"
+        "id": "",
+        "title": "Bỏ túi ngay 6 bí kíp sử dụng Gmail cực 'thần thánh', riêng bí kíp thứ 2 đặc biệt hữu ích"
     },
     {
-        "job": "Tưởng rằng mua được sạc dự phòng có một không hai và cái kết vứt ngay sau 10 giây sử dụng"
+        "id": "",
+        "title": "Tưởng rằng mua được sạc dự phòng có một không hai và cái kết vứt ngay sau 10 giây sử dụng"
     },
     {
-        "job": "Dùng 2 chiếc Google Home Mini làm \"bà mối\", tôi đã bắt 2 hãng smarthome không ưa nhau phải làm việc với nhau"
+        "id": "",
+        "title": "Dùng 2 chiếc Google Home Mini làm \"bà mối\", tôi đã bắt 2 hãng smarthome không ưa nhau phải làm việc với nhau"
     },
     {
-        "job": "Cặp vợ chồng nghe lời công ty mạng rủ rê, đặt tên con siêu kỳ quặc để được xài internet miễn phí 18 năm"
+        "id": "",
+        "title": "Cặp vợ chồng nghe lời công ty mạng rủ rê, đặt tên con siêu kỳ quặc để được xài internet miễn phí 18 năm"
     },
     {
-        "job": "Cách ẩn luôn tên Wi-Fi để khỏi có ai dùng chùa mạng internet của bạn"
+        "id": "",
+        "title": "Cách ẩn luôn tên Wi-Fi để khỏi có ai dùng chùa mạng internet của bạn"
     },
     {
-        "job": "Bộ sưu tập ảnh nền 4K về chủ đề hoa lá cành dành cho máy tính"
+        "id": "",
+        "title": "Bộ sưu tập ảnh nền 4K về chủ đề hoa lá cành dành cho máy tính"
     },
     {
-        "job": "Dễ dàng biết ngay ứng dụng và thư mục nào bị người lạ lục lọi trên Windows 10"
+        "id": "",
+        "title": "Dễ dàng biết ngay ứng dụng và thư mục nào bị người lạ lục lọi trên Windows 10"
     },
     {
-        "job": "Microchip tung “chiến binh” mới: Mô-đun vi điều khiển đầu tiên cho thiết bị ngoại vi"
+        "id": "",
+        "title": "Microchip tung “chiến binh” mới: Mô-đun vi điều khiển đầu tiên cho thiết bị ngoại vi"
     },
     {
-        "job": "Mẹo làm mát laptop của dân mạng Nhật Bản, thử xong ai cũng tấm tắc khen hay"
+        "id": "",
+        "title": "Mẹo làm mát laptop của dân mạng Nhật Bản, thử xong ai cũng tấm tắc khen hay"
     },
     {
-        "job": "Benchmark máy tính là gì? Và cần chú ý gì trước khi thực hiện Benchmark?"
+        "id": "",
+        "title": "Benchmark máy tính là gì? Và cần chú ý gì trước khi thực hiện Benchmark?"
     }
 ]
